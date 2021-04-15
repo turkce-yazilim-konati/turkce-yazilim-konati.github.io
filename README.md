@@ -1,6 +1,6 @@
 # TÜRKÇE YAZILIM KONATI
 
-Türkçe tabanlı yazılım dilleri geliştirmek için bir araya gelenlerin oluşturduğu bir konattır. Bu konatta yazılımcılardan, dilbilimcilere, Türkçe severlerden, bilişim alanındaki öğrencilere, Türkolojiden adını anmadığımız diğer alanların uzmanlarıyla karşılaşabilirsiniz.
+Türkçe tabanlı yazılım dilleri geliştirmek için bir araya gelenlerin oluşturduğu bir konattır. Bu konatta yazılımcılar, dilbilimciler, Türkçe sevenler, bilişim öğrencileri, Türkoloji öğrencileri ve türlü alanların uzmanları bizimle.
 
 [Discord'a katılmak için buraya tıkla.](https://discord.gg/8ymtm9XPyQ)
 
