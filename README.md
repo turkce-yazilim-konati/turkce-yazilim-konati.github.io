@@ -21,3 +21,4 @@ Gerçek bir yazılım dili ortaya koymak için, Türkçeleştirme çalışmalar�
 Yapılan tüm işleri çok yönlü olarak deneyip deneştirip durumun kılığını ortaya çıkarıran takımdır.
 
 (Tasarım çalışmaları beklemede)
+aaaa

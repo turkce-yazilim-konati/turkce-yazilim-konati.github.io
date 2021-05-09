@@ -1,0 +1,121 @@
+html{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+    padding:5px 10px;
+    border-bottom: 1px solid #eee;
+}
+.damga img{
+    width:36px;
+    height: 36px;
+    margin: 5px 10px;
+}
+.damga h1{
+    font-size:14pt;
+    margin:0;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+}
+.damga p{
+    margin:-3px 0 3px 0;
+    font-size:0.7em;
+    background: #FF0000;
+    background: -webkit-repeating-radial-gradient(ellipse farthest-corner at bottom center, #FF0000 0%, #432CD4 50%, #FF0000 100%);
+    background: -moz-repeating-radial-gradient(ellipse farthest-corner at bottom center, #FF0000 0%, #432CD4 50%, #FF0000 100%);
+    background: repeating-radial-gradient(ellipse farthest-corner at bottom center, #FF0000 0%, #432CD4 50%, #FF0000 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+
+/*---------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800|Poppins&display=swap');
+.cards{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat',sans-serif;
+}
+.cards{
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+}
+.cards h1{
+  font-size: 40px;
+  margin: 0 0 30px 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.services{
+  box-sizing: border-box;
+}
+.content{
+    box-sizing:content-box;
+
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 4px;
+  transition: all .3s ease;
+}
+.content .fab{
+  font-size: 70px;
+  margin: 16px 0;
+}
+.content > *{
+  flex: 1 1 100%;
+}
+.content:hover, .content:hover h2{
+  color: white;
+}
+.content:hover a{
+  border-color: white;
+  background: white;
+}
+.content-1:hover{
+  border-color: #4267B2;
+  background: #4267B2;
+}
+.content-1:hover a{
+  color: #4267B2;
+}
+.content-2:hover{
+  border-color: #075e54;
+  background: #075e54;
+}
+.content-2:hover a{
+  color: #075e54;
+}
+.content-3:hover{
+  border-color: #ff0000;
+  background: #ff0000;
+}
+.content-3:hover a{
+  color: #ff0000;
+}
+.content h2{
+  font-size: 30px;
+  margin: 16px 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.content p{
+  font-size: 17px;
+  font-family: 'Poppins',sans-serif;
+}
+.content a{
+  margin: 22px 0;
+  background: black;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 1px solid black;
+  padding: 15px 0;
+  border-radius: 25px;
+  transition: .3s ease;
+}
+.content a:hover{
+  border-radius: 4px;
+}
