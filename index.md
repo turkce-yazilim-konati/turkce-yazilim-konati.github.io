@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: ana
+layout: temel
+title: Anasahîfe
 ---
 
 <h1 style="padding:100px 20%; font-size:60pt; font-weight:bold;">YAKINDA DERİN İÇERİKLERLE</h1>

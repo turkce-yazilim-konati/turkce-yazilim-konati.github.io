@@ -1,0 +1,22 @@
+---
+layout: temel
+title: Kimiz
+permalink: /kimiz/
+---
+
+<h1>Türkçe Yazılım Konatı Nedir?</h1>
+
+<p>Biz alanında uzman yazılımcılar, alanında uzman dilbilimciler ve Türkçe tabanlı yazılım dilleri geliştirmeye ilgi gösteren kişilerin bir araya gelmesi ile oluşturduğu konatız. Konat sözcüğünün bir anlamı birbirine yanaşan bir araya gelen kişiler demektir. Yazılım dillerimizde kullanılmak üzere ölçünler, sözcükler üzerinde çalışıp bunu gerçeğe dökmekteyiz.</p>
+
+<h2>TAKIMLAR</h2>
+<b>Türkçeleştirme:</b> Yabancı söz dağarcığını Türkçe karşılıklar bularak karşılamaya çalışan kişilerin bulunduğu takımdır. Türkoloji, dilbilim gibi alanlardan kişiler daha çok bu takımda yer almaktadır.
+
+<b>Dilleştirme:</b> Çalışmaları gerçeğe döküp kullanılabilir bir yazılım dili oluşturma emeği döken kişilerin bulunduğu takımdır. Mühendislik, yazılımcılık gibi alanlardan kişiler daha çok bu takımda yer almaktadır.
+
+<b>Deneştirme:</b> Ortaya çıkarılan değme işi deneştirip bir sıkıntı olup olmadığını ortaya çıkarmaya çalışan kişilerin bulunduğu takımdır. Yetkin kişilerden, son kullanıcıya dek kişiler bu takımda yer almaktadır.
+
+<h2>İş Birliği</h2>
+
+<b>Ortak Türkçe Konatı:</b> Türkçenin tüm kollarıyla yakından ilgilenen kişilerin bulunduğu ve Türk dili üzerine çalışmalar yapabildiği topluluk.
+
+<b>TPD (Türkçe Programlama Dili):</b> Türkçe tabanlı yazılım dillerinin olabileceği farkındalığını 2017 yılında attıkları ilk adımla göstermeye başlamış, amaçlarından biri Türkçe yazılım diline erişmek olan bir çalışma.
