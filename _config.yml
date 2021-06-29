@@ -57,5 +57,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#dizin adlandırma
+#dizin ayarlama
 layouts_dir: _döşekler
+data_dir: _veri
