@@ -12,7 +12,7 @@ Bilişim ve yazılım alanında, yeni başlayanlar ve eski topraklar için kulla
 
 <div class="örnek">
 <h4>Öğretim</h4>
-<p>Başlangıç düzeyinde öğretime başlamak için <a href="/i/karamel/ogretim/">bağlantı örküne tıklayınız.</a></p>
+<p>Başlangıç düzeyinde öğretime başlamak için <a href="/i/karamel/ogretim">bağlantı örküne tıklayınız.</a></p>
 </div>
 
 ## Karamel
