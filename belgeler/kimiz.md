@@ -6,7 +6,7 @@ permalink: /kimiz/
 
 <h1>Türkçe Yazılım Konatı Nedir?</h1>
 
-<p>Türkçe tabanlı yazılım dilleri geliştirmek ve kullanmaya başlamak amacı ile konuya emek veren kişilerin bir araya gelerek oluşturduğu bir konattır. Aramızda yazılımcılar, dilbilimciler, Türkologlar, gönüllüler ve öğrencilerle karşılaşabilirsiniz. Konat sözcüğünün Türkçenin en değerli kaynaklarından biri olan Dîvânu Lugâtit Türk'te geçtiğini görebilirsiniz. Bir anlamı birbirine yanaşan bir araya gelen kişi kümesi demektir. Kısaca TYK'nı size böyle açıklayabiliriz.</p>
+<p>Türkçe tabanlı yazılım dilleri geliştirmek ve kullanmaya başlamak amacı ile konuya emek veren kişilerin bir araya gelerek oluşturduğu bir konattır. Aramızda yazılımcılar, dilbilimciler, Türkologlar, gönüllüler ve öğrencilerle karşılaşabilirsiniz. Konat sözcüğünün Türkçenin en değerli kaynaklarından biri olan Dîvânu Lugâtit Türk'te geçtiğini görebilirsiniz. Bir anlamı birbirine yanaşan bir araya gelen kişi kümesi demektir. Kısaca TYK'nı size böyle anlatabiliriz.</p>
 
 <h2>TAKIMLAR</h2>
 <b>Türkçeleştirme:</b> Yabancı söz dağarcığını Türkçe karşılıklar bularak karşılamaya çalışan kişilerin bulunduğu takımdır. Türkoloji, dilbilim gibi alanlardan kişiler daha çok bu takımda yer almaktadır.
