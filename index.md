@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: temel
-title: Anasahîfe
+title: Anasayfa
 ---
 
-<h1 style="padding:100px 20%; font-size:60pt; font-weight:bold;">YAKINDA DERİN İÇERİKLERLE</h1>
+<h1 style="padding:40px 20%; font-size:60pt; text-align:center; font-weight:bold;">ŞİMDİ KATILIN</h1>
 
 
 <div class="cards">
