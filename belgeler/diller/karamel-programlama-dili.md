@@ -10,6 +10,11 @@ Karamel Programlama Dili, Türkçe tabanlı yazılım dilidir. Tüm Türkçe bil
 
 Bilişim ve yazılım alanında, yeni başlayanlar ve eski topraklar için kullanımı kolay, öğrenmesi eğlenceli, işlek bir Türkçe tabanlı geliştirme ortamı sağlamak başta gelen amaçlarımızdır.
 
+<div class="örnek">
+<h4>Öğretim</h4>
+<p>Başlangıç düzeyinde öğretime başlamak için <a href="/i/karamel/ogretim/">bağlantı örküne tıklayınız.</a></p>
+</div>
+
 ## Karamel
 Gözde dillerde bulunan özelliklerden esinlenerek geliştirilmeye başlanan Karamel dili, bilinen iki işletim sistemi Windows ve MacOsX üzerinde sorunsuzca kullanılabilmektedir.
 
@@ -23,7 +28,7 @@ Karamel programlama dilini kılavuzlar bölümünde yazılı olan bilgiler üzer
 ## İndirilebilir Durumda Mı?
 Üzgünüz, henüz indirilebilir bir örneği yok. Ancak en kısa sürede ağ üzerinden çalışabilir bir sürümü yayınlamayı düşünüyoruz. Denemelik sürüme bir süreliğine şuradan erişebilirsiniz.
 
-Canlı dene!: https://erhanbaris.github.io/karamel/karamelweb/src/www/
+Canlı dene!: https://turkce-yazilim-konati.github.io/karamel/karamelweb/src/www/
 
 ## Karamel Hangi Düzeyde?
 Geliştirilme aşamasında olup emekleme sürecindedir.
