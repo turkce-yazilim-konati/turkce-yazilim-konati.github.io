@@ -1,7 +1,7 @@
 ---
 layout: temel
 title: Yazılımca
-permalink: /yazilimca/
+permalink: /i/yazilimca/
 ---
 
 <h1>YAZILIMCA</h1>
