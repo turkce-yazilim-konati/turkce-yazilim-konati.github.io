@@ -4,16 +4,16 @@ title: Yazılımca
 permalink: /i/yazilimca/
 ---
 
-<h1>YAZILIMCA</h1>
+# YAZILIMCA
 
-<p>
 Yazılımca, Türkçe tabanlı yazılım dillerinin baş taşlarını barındıran, ölçünlerini ortaya koyan, sözdizimleri belirleyen, terim tutarlılığını oluşturan bir çalışmadır.
-</p>
 
-<h2>ALANLAR</h2>
-<ul>
-<li>Sözlükler</li>
-<li>Terimler</li>
-<li>Ölçünler</li>
-<li>Sözdizimleri</li>
-</ul>
+[Tartışmalar (Discussions)](https://github.com/turkce-yazilim-konati/yazilimca/discussions)'da onlarca konuya katıl. Çözüme ulaşmamızı kolaylaştır.
+
+## ÇALIŞMALARIMIZ
+- Sözlükler
+- Terimler
+- Ölçünler
+- Sözdizimleri
+
+**YENİLİKLER GELİYOR !!!**
