@@ -1,5 +1,5 @@
 ---
-layout: temel
+layout: yazılık
 title: Karamel Programlamayı Öğrenme
 permalink: /i/karamel/ogretim
 ---

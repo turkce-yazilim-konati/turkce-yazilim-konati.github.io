@@ -1,5 +1,5 @@
 ---
-layout: temel
+layout: yazılık
 title: Karamel Programlama Dili
 permalink: /diller/karamel-programlama-dili
 ---

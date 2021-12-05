@@ -1,5 +1,5 @@
 ---
-layout: temel
+layout: yazılık
 title: Diller
 permalink: /diller/
 ---
