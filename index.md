@@ -45,7 +45,7 @@ title: Anasayfa
           <div class="fab fa-twitter"></div>
           <h2>Twitter</h2>
           <p>
-          Buranın gündemi bitmez. Sıra bize gelmez. Ancak Twitter'dan çıkmayan birisi isen bizim sayramamızı işittiğinde sende sayrar mısın?
+          Buranın gündemi bitmez. Sıra bize gelmez. Ancak Twitter'dan çıkmayan birisi isen bizim sayramamızı işittiğinde sen de sayrar mısın?
           </p>
           <a href="https://www.twitter.com/turkceyazilim">Üleş</a>
         </div>
