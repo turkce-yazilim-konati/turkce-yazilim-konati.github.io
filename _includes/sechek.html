@@ -9,12 +9,12 @@
             {% if nesne.alt %}
                 <input id="öge-{{ nesne.ourk | slugify: 'latin' }}" type="checkbox" data-kapaç>
                 <label for="öge-{{ nesne.ourk | slugify: 'latin' }}"></label>
-            {% endif %}
                 <ul>
-                    {% for alt in nesne.alt %}
-                        <li><a href="{{nesne.ourk}}{{alt.ourk}}">{{alt.alynlyk}}</a></li>
+                    {% for nesne1 in nesne.alt %}
+                        <li><a href="{{nesne.ourk}}{{nesne1.ourk}}">{{nesne1.alynlyk}}</a></li>
                     {% endfor %}    
                 </ul>
+            {% endif %}
         </li>
         {% endfor %}
     </ul>
