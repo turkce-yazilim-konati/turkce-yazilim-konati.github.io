@@ -60,3 +60,5 @@ plugins:
 #dizin ayarlama
 layouts_dir: _döşekler
 data_dir: _veri
+
+encoding: utf-8
