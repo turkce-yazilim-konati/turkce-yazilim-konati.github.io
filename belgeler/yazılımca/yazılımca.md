@@ -1,12 +1,15 @@
 ---
-layout: temel
+layout: yazılık
 title: Yazılımca
 permalink: /i/yazilimca/
 ---
 
-# YAZILIMCA - Türkçe Tabanlı Yazılım Dillerinin Düzeni
+# YAZILIMCA 
+## Türkçe Yazılım Programlama Dillerinin Düzeni
 
-Bilindiği üzere Türkçe eklemeli bir dil olarak tanımlanır. Türkçe tabanlı yazılım dillerinin yapısı da doğallıkla bambaşka olacaktır. İşte bunun için bir düzen gerekmektedir. Bu düzenin yazılı biçimde topluma açık olarak sunulması ilk başlardar gerçek kılınması gereken işlerlerdendir. Türkçe tabanlı yazılım dillerinin ölçülerini düzenlerini belirlendiğimiz kaynağa bu yüzden YAZILIMCA adını veriyoruz. Yazılımla ilgili tüm işlerin belirlendiği bir yapıyı ancak böyle bir adlandırma ile anlatabiliriz.
+Eklemeli bir dil olarak tanımlanan Türkçe, yazılım programlama dillerinin tabanı oluyor. Doğal olarak programlama dillerinin yapısı bambaşka olacak. İşte, ortaya çıkan ve çıkacak olan bu durumlar için bir düzen oluşturulmalıdır. Kaçınılmaz bir gereklilik olduğu aydındır. Bu düzenin adına ise **Yazılımca** denir.
+
+Bu düzenin yazılı biçimde topluma açık olarak sunulması ilk başlardar gerçek kılınması gereken işlerlerdendir. Türkçe tabanlı yazılım dillerinin ölçülerini düzenlerini belirlendiğimiz kaynağa bu yüzden YAZILIMCA adını veriyoruz. Yazılımla ilgili tüm işlerin belirlendiği bir yapıyı ancak böyle bir adlandırma ile anlatabiliriz.
 
 Yazılım dili denince alanla ilgilenen değme kişinin gözünde bir şeyler dirilir, görünür kılınır. Türkçe üzerine kuracağımız dillerimiz de bir tutarlılık üzerinde ilerlemelidir, örlemelidir. Yazılımca, bu alanda ölçü ve denge belirleyici bir sorumlulukla varlığını sürdürecektir.
 
@@ -16,6 +19,6 @@ Yazılımca adlı çalışmada ortaya koyabildiğimiz çizgiler vardır. İlk i�
 
 Yazılımca, Türkçe tabanlı yazılım dillerinin baş taşlarını barındıran, ölçünlerini ortaya koyan, sözdizimleri belirleyen, terim tutarlılığını oluşturan bir çalışmadır.
 
-[Tartışmalar (Discussions)](https://github.com/turkce-yazilim-konati/yazilimca/discussions)'da onlarca konuya katıl. Çözüme ulaşmamızı kolaylaştır.
+[Tartışmalar sekmesi](https://github.com/turkce-yazilim-konati/yazilimca/discussions)nde onlarca konuya katıl. Çözüme ulaşmayı kolaylaştır.
 
 **YENİLİKLER GELİYOR !!!**
