@@ -1,0 +1,21 @@
+<nav data-gnl="0 _s">
+    <input id="seçek-0by" type="checkbox" data-kapaç="sağda">
+    <label for="seçek-0by">•••</label>
+    <label for="seçek-0by">✕</label>
+    <ul data-seçek="basit yatay" data-gnl="l" data-kçk="s">
+        {% for nesne in site.data.sechek %}
+        <li>
+            <a href="{{nesne.ourk}}">{{nesne.alynlyk}}</a>
+            {% if nesne.alt %}
+                <input id="öge-{{ nesne.ourk | slugify: 'latin' }}" type="checkbox" data-kapaç>
+                <label for="öge-{{ nesne.ourk | slugify: 'latin' }}"></label>
+            {% endif %}
+                <ul>
+                    {% for alt in nesne.alt %}
+                        <li><a href="{{nesne.ourk}}{{alt.ourk}}">{{alt.alynlyk}}</a></li>
+                    {% endfor %}    
+                </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
