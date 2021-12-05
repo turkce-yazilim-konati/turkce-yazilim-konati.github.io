@@ -3,6 +3,12 @@
 
 - alynlyk: Yazılımca
   ourk: /i/yazilimca
+  alt:
+  - alynlyk: Tartışmalar
+    ourk: /tartismalar
+  
+  - alynlyk: Sızılar
+    ourk: /sizilar
 
 - alynlyk: Diller
   ourk: /diller
