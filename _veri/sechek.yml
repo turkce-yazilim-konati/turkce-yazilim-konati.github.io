@@ -1,0 +1,30 @@
+- alynlyk: Anabet
+  ourk: /
+
+- alynlyk: Yazılımca
+  ourk: /i/yazilimca
+
+- alynlyk: Diller
+  ourk: /diller
+  alt:
+  - alynlyk: Karamel Programlama Dili
+    ourk: /karamel
+
+  - alynlyk: Çevrimiçi Türkçe Programlama Dili
+    ourk: /çtpd
+
+  - alynlyk: Yap Programlama Dili
+    ourk: /yap
+
+  - alynlyk: Kojo Programlama Dili
+    ourk: /kojo
+
+- alynlyk: Konular
+  ourk: /konular
+
+- alynlyk: Kimiz?
+  ourk: /kimiz
+
+- alynlyk: Canlı İletişim
+  ourk: /discord
+
