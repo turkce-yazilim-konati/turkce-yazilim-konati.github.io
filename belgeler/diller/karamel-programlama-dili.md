@@ -1,7 +1,7 @@
 ---
 layout: yazılık
 title: Karamel Programlama Dili
-permalink: /diller/karamel-programlama-dili
+permalink: /diller/karamel
 ---
 
 # Karamel Programlama Dili
