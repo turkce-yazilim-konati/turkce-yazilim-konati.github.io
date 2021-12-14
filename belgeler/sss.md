@@ -1,5 +1,5 @@
 ---
-layout: temel
+layout: yazılık
 title: Sık Sorulan Sorular
 permalink: /sss/
 ---
