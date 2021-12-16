@@ -36,7 +36,9 @@ facebook_grupadı: turkceyazilimkonati
 theme: minima
 plugins:
   - jekyll-feed
+  - "jekyll-github-metadata"
 
+repository: turkce-yazilim-konati/turkce-yazilim-konati.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
