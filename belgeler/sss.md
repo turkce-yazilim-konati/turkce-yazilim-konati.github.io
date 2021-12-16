@@ -14,3 +14,9 @@ Yıl 1074... Dîvânu Lugâti't Türk'te geçen bilgilere göre *"birbirlerine y
 
 İşte biz de benzer amaçlar için ortak düş kurmuş kişileriz. Bir araya gelerek topluluk oluşturduk. Konat sözcüğü bunu yansıttık. Böylelikle adımız Türkçe Yazılım Konatı olarak doğdu.
 
+## Yazılım Proglama Dili Neden Türkçe Olmalı?
+Yakında yanıtlayacağız.
+
+## Yazılım Dili Ne Demek? Yazılım Programlama Dili Ne Demek?
+Yakında yanıtlayacağız.
+
