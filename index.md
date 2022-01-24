@@ -8,7 +8,7 @@ title: Anasayfa
 
 <h1 style="padding:40px 20%; font-size:22pt; text-align:center; font-weight:bold;">29 OCAK 2022'de Teknopark Ankara'dayız.</h1>
 
-<div style="text-align:center;">
+<div data-gnl="o">
   <a href="https://kommunity.com/turkce-yazilim-konati/events/turkce-programlama-yapmak-181e2cf2" ><img src="https://media.kommunity.com/communities/turkce-yazilim-konati/events/turkce-programlama-yapmak-181e2cf2/28397/discord-zoom-youtube-uzerindan-katilabilirsin13.png?p=event-640"></a>
 </div>
 
