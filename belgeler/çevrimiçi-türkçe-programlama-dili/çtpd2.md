@@ -1,5 +1,5 @@
 ---
-redirect:   https://turkce-yazilim-konati.github.io/turkceprogramlamadili
+redirect:   https://turkceprogramlama.github.io/versiyon2/
 layout:     agbetini-yonlendirme
 permalink:  /diller/çtpd2
 ---
