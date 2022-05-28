@@ -6,6 +6,7 @@ layout: temel
 title: Anasayfa
 ---
 
+<!--
 <h1 style="padding:40px 20%; font-size:22pt; text-align:center; font-weight:bold;">29 OCAK 2022'de Teknopark Ankara'dayız.</h1>
 
 <div data-gnl="o">
@@ -17,7 +18,7 @@ title: Anasayfa
 
 [Youtube'dan katıl](https://turkce-yazilim-konati.github.io/youtube) - [Zoom'dan katıl](https://turkce-yazilim-konati.github.io/zoom) - [Discod'dan katıl](https://turkce-yazilim-konati.github.io/discord)  
 
-
+ -->
 
 
 <h1 style="padding:40px 20%; font-size:60pt; text-align:center; font-weight:bold;">ŞİMDİ KATILIN</h1>
