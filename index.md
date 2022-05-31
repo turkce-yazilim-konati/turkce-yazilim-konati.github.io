@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: temel
 title: Anasayfa
 ---
@@ -20,9 +17,16 @@ title: Anasayfa
 
  -->
 
+<style>
+.kapak-başlığı{
+  padding:40px 20%; 
+  font-size:60pt; 
+  text-align:center; 
+  font-weight:bold;
+}
+</style>
 
-<h1 style="padding:40px 20%; font-size:60pt; text-align:center; font-weight:bold;">ŞİMDİ KATILIN</h1>
-
+<h1 class="kapak-başlığı">ŞİMDİ KATILIN</h1>
 
 <div class="cards">
    <h1>DEĞME YERDE BİZİ BULUN</h1>
