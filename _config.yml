@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Türkçe Yazılım Konatı
-email: your-email@example.com
+email: turkce-yazilim-konati@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Türkçe programlama dili geliştirmek amacı ile bir araya gelen 
-  insanların oluşturduğu çalışma topluluğu. Türkçe tabanlı yazılım dili
-  geliştirmelerine her türlü katkıyı sağlayabilirsiniz.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Türkçe tabanlı yazılım programlama dilleri geliştirmek başta olmak üzere bir araya gelen kişilerin oluşturduğu bir kümeyiz.
+  Her türlü yardım ve katkı için bizimle iletişime geçin.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://turkce-yazilim-konati.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  turkce-yazilim-konati
 twitter_username: TurkceYazilim
 instagram_adı: turkceyazilimkonati
@@ -36,7 +35,9 @@ facebook_grupadı: turkceyazilimkonati
 theme: minima
 plugins:
   - jekyll-feed
-  - "jekyll-github-metadata"
+  - jekyll-github-metadata
+  - jekyll-get-json
+  # https://github.com/brockfanning/jekyll-get-json
 
 repository: turkce-yazilim-konati/turkce-yazilim-konati.github.io
 # Exclude from processing.
@@ -64,3 +65,10 @@ layouts_dir: _döşekler
 data_dir: _veri
 
 encoding: utf-8
+
+jekyll_get_json:
+  - data: volkantash
+    json: 'https://api.github.com/users/volkantash'
+  - data: team
+    json: 'https://api.github.com/orgs/turkce-yazilim-konati/teams'
+    
