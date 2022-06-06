@@ -1,8 +1,4 @@
 @charset "UTF-8";
-div {
-  box-sizing: border-box;
-  border: 1px solid orangered;
-}
 
 @media screen and (min-width: 0) {
   [class*="/"] {
