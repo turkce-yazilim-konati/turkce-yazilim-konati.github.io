@@ -51,6 +51,10 @@ code{
   background-color: #eee;
   border-left:6px solid orange;
 }
+.kimlik_resmi{
+  width: 128px;
+  height: 128px;
+}
 /*---------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800|Poppins&display=swap');
