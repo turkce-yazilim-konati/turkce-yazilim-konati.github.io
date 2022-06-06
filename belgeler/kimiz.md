@@ -29,3 +29,4 @@ Türkçe tabanlı yazılım dilleri geliştirmek ve kullanmaya başlamak amacı 
 **Ortak Türkçe Konatı:** Türkçenin tüm kollarıyla yakından ilgilenen kişilerin bulunduğu ve Türk dili üzerine çalışmalar yapabildiği topluluk.
 
 <b>TPD (Türkçe Programlama Dili):</b> Türkçe tabanlı yazılım dillerinin olabileceği farkındalığını 2017 yılında attıkları ilk adımla göstermeye başlamış, amaçlarından biri Türkçe yazılım diline erişmek olan bir çalışma.
+**TPD (Türkçe Programlama Dili):** Türkçe tabanlı yazılım dillerinin olabileceği farkındalığını 2017 yılında attıkları ilk adımla göstermeye başlamış, amaçlarından biri Türkçe yazılım diline erişmek olan bir çalışma.
