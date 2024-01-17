@@ -1,0 +1,6 @@
+@use "../../ayarlar" as *;
+
+@mixin gizleme-düzeni($ekran){
+    [#{$ekran}*="görünür"]{display: inherit}
+    [#{$ekran}*="gizli"]{display: none}    
+}

@@ -1,0 +1,21 @@
+$ekranlar: (
+    class: 0,       // dikey tutulan telefon ekranları ve daha küçükleri
+    \.küçük: 576px,   // yatay tutulan telefon ekranları ve daha büyükleri
+    \.orta: 768px,   // tablet bilgisayar ekranları ve daha büyükleri
+    \.büyük: 992px,   // dizüstü bilgisayar ekranları ve daha büyükleri
+    \.koca: 1200px   // düz bilgisayar ekranları ve daha büyükleri
+);
+
+// telefon
+// 320 X 568 = iPhone SE
+// 375 X 667 = iPhone 8, iPhone 6s Plus, iPhone 6 Plus, iPhone 7, iPhone 6s, iPone 6
+// 375 X 812 = iPhone X
+// 414 X 736 = iPhone 7 Plus, iPhone 8 Plus
+
+// tablet
+// 
+
+// dizüstü
+// 1024 X 1366 = iPad Pro 12.9-inch (2nd generation), iPad Pro (12.9-inch)
+// 1112 X 834 = iPad Pro 10.5-inch
+// 768 X 1024 = iPad Pro (9.7-inch), iPad Air 2, iPad Mini 4

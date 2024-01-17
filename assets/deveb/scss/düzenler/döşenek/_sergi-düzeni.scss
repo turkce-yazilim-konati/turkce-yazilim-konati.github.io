@@ -1,0 +1,6 @@
+@use "../../ayarlar" as *;
+
+@mixin sergi-düzeni($ekran){
+    [#{$ekran}*="esnek"]{display: flex; flex-wrap: wrap;}
+    [#{$ekran}*="block"]{display: block}    
+}

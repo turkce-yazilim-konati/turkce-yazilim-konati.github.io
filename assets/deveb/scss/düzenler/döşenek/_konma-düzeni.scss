@@ -1,0 +1,23 @@
+@use "../../ayarlar" as *;
+
+@mixin konma-düzeni($ekranAdı){
+    [#{$ekranAdı}~="ortalı-yazı"]{
+        #{$metin-hizalama}: $orta;
+    }
+    [#{$ekranAdı}~="sağlı-yazı"]{
+        #{$metin-hizalama}: $sağ;
+    }
+    [#{$ekranAdı}~="sollu-yazı"]{
+        #{$metin-hizalama}: $sol;
+    }
+    [#{$ekranAdı}~="yayılı-yazı"]{ //düzülü-yazı
+        #{$metin-hizalama}: justify;
+    }
+    [#{$ekranAdı}~="ortalı"]{
+        justify-content: center;
+        align-content: center; //içeriği-hizalama
+        align-items: center; //nesneleri-hizalama
+    }
+}
+
+// solüstlü, üstlü, sağüstlü, sağlı, sağaltlı, altlı, solaltlı, sollu, ortalı

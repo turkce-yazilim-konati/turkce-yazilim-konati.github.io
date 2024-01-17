@@ -1,0 +1,18 @@
+@use "ayarlar" as *;
+@use "düzenler/döşenek/döşenek-düzeni" as *;
+
+@mixin ekranlar($ekranlar){
+    @each $ekranAdı, $ekranGenişliği in $ekranlar {
+        // CSS Başı
+
+        @include döşenek-düzeni-başı($ekranAdı);
+
+        // CSS Gövdesi
+        @media screen and (min-width:$ekranGenişliği) {
+            @include döşenek-düzeni($ekranAdı);
+        }
+
+        // CSS Ayağı
+        @include döşenek-düzeni-ayağı($ekranAdı);
+    }
+}

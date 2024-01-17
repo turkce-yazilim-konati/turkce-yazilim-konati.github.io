@@ -1,0 +1,89 @@
+@use "../../ayarlar" as *;
+
+/////////////////////////////////////////////////////////////////////////////////////
+//
+//    BÖLME DÜZENİ 2.0 🍇
+//
+//    Bölümleme düzeni 1/1 ile 100/100 arasında olan tüm bölümleri bir arada sunmak için geliştirildi.
+//    Matematik yöntemlerinden yararlanıp yalın CSS satırları yazıldı. Bu ölçüleri kullanmak için aşağıdaki
+//    denklem kullanıldı.
+//
+//    HTML'de 👉(pay/payda)👈 biçiminde yazılacak genişlik değerleri, CSS'de birler basamağı ve onlar basamağı olarak
+//    pay ve payda için işlendi. En az satırda işlemler bitirildi. 
+
+@mixin bölme-düzeni($ekranAdı){
+    // PAY
+    [#{$ekranAdı}*="/"]{--b: 0; --i: 0}
+    [#{$ekranAdı}*="/"]:not([#{$ekranAdı}*="/0)"]){--o: 0; --n: 0}
+    [#{$ekranAdı}*="0/"]{--b: 0}
+    [#{$ekranAdı}*="1/"]{--b: 1}
+    [#{$ekranAdı}*="2/"]{--b: 2}
+    [#{$ekranAdı}*="3/"]{--b: 3}
+    [#{$ekranAdı}*="4/"]{--b: 4}
+    [#{$ekranAdı}*="5/"]{--b: 5} 
+    [#{$ekranAdı}*="6/"]{--b: 6}
+    [#{$ekranAdı}*="7/"]{--b: 7}
+    [#{$ekranAdı}*="8/"]{--b: 8}
+    [#{$ekranAdı}*="9/"]{--b: 9}
+
+    [#{$ekranAdı}*="(1"]:not([#{$ekranAdı}*="(1/"]){--o: 1}
+    [#{$ekranAdı}*="(2"]:not([#{$ekranAdı}*="(2/"]){--o: 2}
+    [#{$ekranAdı}*="(3"]:not([#{$ekranAdı}*="(3/"]){--o: 3}
+    [#{$ekranAdı}*="(4"]:not([#{$ekranAdı}*="(4/"]){--o: 4}
+    [#{$ekranAdı}*="(5"]:not([#{$ekranAdı}*="(5/"]){--o: 5}
+    [#{$ekranAdı}*="(6"]:not([#{$ekranAdı}*="(6/"]){--o: 6}
+    [#{$ekranAdı}*="(7"]:not([#{$ekranAdı}*="(7/"]){--o: 7}
+    [#{$ekranAdı}*="(8"]:not([#{$ekranAdı}*="(8/"]){--o: 8}
+    [#{$ekranAdı}*="(9"]:not([#{$ekranAdı}*="(9/"]){--o: 9}
+    [#{$ekranAdı}*="(10"]:not([#{$ekranAdı}*="(10/"]){--o: 10}
+
+    // PAYDA
+    [#{$ekranAdı}*="1)"]{--i: 1}
+    [#{$ekranAdı}*="2)"]{--i: 2}
+    [#{$ekranAdı}*="3)"]{--i: 3}
+    [#{$ekranAdı}*="4)"]{--i: 4}
+    [#{$ekranAdı}*="5)"]{--i: 5} 
+    [#{$ekranAdı}*="6)"]{--i: 6}
+    [#{$ekranAdı}*="7)"]{--i: 7}
+    [#{$ekranAdı}*="8)"]{--i: 8}
+    [#{$ekranAdı}*="9)"]{--i: 9}
+
+    [#{$ekranAdı}*="/1"]:not([#{$ekranAdı}*="/1)"]){--n: 1}
+    [#{$ekranAdı}*="/2"]:not([#{$ekranAdı}*="/2)"]){--n: 2}
+    [#{$ekranAdı}*="/3"]:not([#{$ekranAdı}*="/3)"]){--n: 3}
+    [#{$ekranAdı}*="/4"]:not([#{$ekranAdı}*="/4)"]){--n: 4}
+    [#{$ekranAdı}*="/5"]:not([#{$ekranAdı}*="/5)"]){--n: 5}
+    [#{$ekranAdı}*="/6"]:not([#{$ekranAdı}*="/6)"]){--n: 6}
+    [#{$ekranAdı}*="/7"]:not([#{$ekranAdı}*="/7)"]){--n: 7}
+    [#{$ekranAdı}*="/8"]:not([#{$ekranAdı}*="/8)"]){--n: 8}
+    [#{$ekranAdı}*="/9"]:not([#{$ekranAdı}*="/9)"]){--n: 9}
+    [#{$ekranAdı}*="/10"]:not([#{$ekranAdı}*="/10)"]){--n: 10}
+}
+
+@mixin bölme-düzeni-ayağı($ekranAdı){
+/////////////////////////////
+    %bölme-düzeni-genişliği {
+        float: $sol;
+        #{$genişlik}: calc(100% * (var(--o) * 10 + var(--b)) / (var(--n) * 10 + var(--i)));
+    }
+    [#{$ekranAdı}*="/"]:not([#{$ekranAdı}*="/)"]){
+        @extend %bölme-düzeni-genişliği;
+    }
+/////////////////////////////
+    %esneme-düzeni-genişliği {
+        #{$esneklik}: calc(100% * (var(--o) * 10 + var(--b)));
+    }    
+    [#{$ekranAdı}*="/)"]
+    {
+        @extend %esneme-düzeni-genişliği;
+    }
+/////////////////////////////
+    %kendince-genişlik {
+        flex-basis: auto;
+        max-width: none;
+        width: auto;
+    }
+    [#{$ekranAdı}*="(0)"]{
+        @extend %kendince-genişlik;
+    }
+}

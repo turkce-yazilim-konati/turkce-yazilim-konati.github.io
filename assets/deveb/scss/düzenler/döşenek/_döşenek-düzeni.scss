@@ -1,0 +1,24 @@
+@use "../../ayarlar" as *;
+@use "bölme-düzeni" as *;
+@use "esneme-düzeni" as *;
+@use "sıralama-düzeni" as *;
+@use "gizleme-düzeni" as *;
+@use "konma-düzeni" as *;
+@use "sergi-düzeni" as *;
+
+@mixin döşenek-düzeni-başı($ekranAdı) {
+
+}
+
+@mixin döşenek-düzeni($ekranAdı){
+    @include bölme-düzeni($ekranAdı);
+    @include konma-düzeni($ekranAdı);
+    @include gizleme-düzeni($ekranAdı);
+    @include sergi-düzeni($ekranAdı);
+   // @include esneme-düzeni($ekran);
+   // @include sıralama-düzeni($ekran); 
+}
+
+@mixin döşenek-düzeni-ayağı($ekranAdı){
+    @include bölme-düzeni-ayağı($ekranAdı);
+}
