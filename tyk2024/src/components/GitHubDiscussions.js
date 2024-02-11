@@ -16,7 +16,7 @@ const GitHubDiscussions = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          Authorization: 'Bearer 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', // GitHub token'ınızı buraya ekleyin
+          Authorization: 'Bearer ghp_*************', // GitHub token'ınızı buraya ekleyin
         },
         body: JSON.stringify({
           query: `
